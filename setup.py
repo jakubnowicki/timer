@@ -10,6 +10,6 @@ setup(
     ],
     entry_points = {
         'console_scripts': [
-            'timer = timer.__main__:main'
+            'timer = timer.timer:main'
         ]
     })
